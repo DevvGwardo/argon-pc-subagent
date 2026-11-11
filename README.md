@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/brand-logo.svg" alt="argon-pc-subagent emblem" width="96" />
+  <img src="assets/brand-logo.png" alt="argon-pc-subagent emblem" width="104" />
 </p>
 
 <h1 align="center">argon-pc-subagent</h1>
@@ -23,13 +23,13 @@
 ### Simplistic Architecture
 
 <p align="center">
-  <img src="assets/architecture-simple.jpg" alt="argon-pc-subagent simple architecture diagram" width="100%" />
+  <img src="assets/architecture-simple.png" alt="argon-pc-subagent simple architecture diagram" width="100%" />
 </p>
 
 ### Full Workflow & Security Infographic
 
 <p align="center">
-  <img src="assets/infographic.svg" alt="argon-pc-subagent workflow and security infographic" width="760" />
+  <img src="assets/infographic.png" alt="argon-pc-subagent workflow and security infographic" width="820" />
 </p>
 
 ---
@@ -126,9 +126,9 @@ argon-pc-subagent/
 │   └── delegate_argon.mjs        # Context packer, secret filter & CLI/API runner
 ├── assets/
 │   ├── brand-banner.jpg          # Repository hero banner
-│   ├── brand-logo.svg            # Repository emblem
-│   ├── architecture-simple.jpg   # Simplistic architecture diagram
-│   └── infographic.svg           # Full workflow & security infographic
+│   ├── brand-logo.png            # Repository emblem
+│   ├── architecture-simple.png   # Simplistic architecture diagram
+│   └── infographic.png           # Full workflow & security infographic
 ├── LICENSE                       # MIT License
 └── README.md
 ```
