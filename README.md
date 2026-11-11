@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/brand-banner.jpg" alt="argon-pc-subagent — Antigravity × Gemini Desktop Bridge" width="100%" />
+  <img src="assets/brand-banner.png" alt="argon-pc-subagent — Antigravity × Gemini Desktop Bridge" width="100%" />
 </p>
 
 <p align="center">
@@ -125,7 +125,7 @@ argon-pc-subagent/
 │   ├── check_status.mjs          # Preflight detector (Gemini Desktop, cua-driver, agy)
 │   └── delegate_argon.mjs        # Context packer, secret filter & CLI/API runner
 ├── assets/
-│   ├── brand-banner.jpg          # Repository hero banner
+│   ├── brand-banner.png          # Repository hero banner
 │   ├── brand-logo.png            # Repository emblem
 │   ├── architecture-simple.png   # Simplistic architecture diagram
 │   └── infographic.png           # Full workflow & security infographic
